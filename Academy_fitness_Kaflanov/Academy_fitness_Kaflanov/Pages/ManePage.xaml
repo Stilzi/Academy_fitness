@@ -1,0 +1,60 @@
+﻿<Page x:Class="Academy_fitness_Kaflanov.Pages.ManePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Academy_fitness_Kaflanov.Pages"
+      mc:Ignorable="d" Loaded="Page_Loaded"
+      d:DesignHeight="450" d:DesignWidth="1000"
+      Title="ManePage">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="320"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="1" x:Name="DataView" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id"
+                                    Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Тренер"
+                                    Binding="{Binding Trainer.Name}"/>
+                <DataGridTextColumn Header="Курс"
+                                    Binding="{Binding Course.Title}"/>
+                <DataGridTextColumn Header="Дата начала"
+                                    Binding="{Binding CreatedDate}"/>
+                <DataGridTextColumn Header="Балл"
+                                    Binding="{Binding TotalPoint}"/>
+                <DataGridTextColumn Header="Завершен"
+                                    Binding="{Binding IsDone}"/>
+                <DataGridTextColumn Header="Комментарий"
+                                    Binding="{Binding Comment}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="InsertBtn"
+                Content="Добавить"
+                Width="150"
+                Height="30"
+                HorizontalAlignment="Center" Click="InsertBtn_Click" Margin="0 0 250 0"/>
+        <Button x:Name="UpdateBtn"
+                Content="Редактировать"
+                Width="150"
+                Height="30"
+                HorizontalAlignment="Left"
+                Margin="30" Click="UpdateBtn_Click"/>
+        <Button x:Name="DeleteBtn"
+                Content="Удалить"
+                Width="150"
+                Height="30"
+                HorizontalAlignment="Right"
+                Margin="0 0 30 0" Click="DeleteBtn_Click"/>
+        <CheckBox x:Name="FiltrBtn"
+            Content="Показать завершенные"
+            Width="150"
+            Height="30"
+            HorizontalAlignment="Center"
+            Margin="250 0 0 0"
+            Checked="FiltrBtn_Checked"
+            Unchecked="FiltrBtn_Unchecked"/>
+    </Grid>
+</Page>

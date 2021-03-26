@@ -1,0 +1,73 @@
+﻿<Page x:Class="Academy_fitness_Kaflanov.Pages.InsertPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Academy_fitness_Kaflanov.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InsertPage">
+
+    <Grid Background="White">
+        <Button x:Name="Insert"
+                Content="Добавить"
+                Width="100"
+                Height="30"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Right"
+                Margin="20" Click="Insert_Click"/>
+        <Button x:Name="back"
+                Content="Назад"
+                Width="100"
+                Height="30"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Margin="20" Click="back_Click"/>
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Center" Margin="130 0 0 0">
+            <TextBlock Text="Тренер" 
+                       FontSize="20"
+                       HorizontalAlignment="Center"
+                       Margin="0 0 0 10"/>
+            <ComboBox  x:Name="trainercmb"
+                       Width="200"
+                       Height="35"/>
+            <TextBlock Text="Курс"
+                       FontSize="20"
+                       HorizontalAlignment="Center"
+                       Margin="0 0 0 10"/>
+            <ComboBox  x:Name="coursecmb"
+                       Width="200"
+                       Height="35"/>
+            <TextBlock Text="Дата начала"
+                       FontSize="20"
+                       HorizontalAlignment="Center"
+                       Margin="0 0 0 10"/>
+            <DatePicker   x:Name="datetxb"
+                       Width="200"
+                       Height="35"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0 0 130 0">
+            <TextBlock Text="Завершено"
+                       FontSize="20"
+                       HorizontalAlignment="Center"
+                       Margin="0 0 0 10"/>
+            <TextBox   x:Name="isdonetxb"
+                       Width="200"
+                       Height="35"/>
+            <TextBlock Text="Балл"
+                       FontSize="20"
+                       HorizontalAlignment="Center"
+                       Margin="0 0 0 10"/>
+            <TextBox   x:Name="pointxb"
+                       Width="200"
+                       Height="35"/>
+            <TextBlock Text="Комментарий"
+                       FontSize="20"
+                       HorizontalAlignment="Center"
+                       Margin="0 0 0 10"/>
+            <TextBox   x:Name="Commenttxb"
+                       Width="200"
+                       Height="35"/>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,99 @@
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.exe.config
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.exe
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.pdb
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.dll
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.xml
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csprojAssemblyReference.cache
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\MainWindow.g.cs
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\ManePage.g.cs
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\App.g.cs
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_Content.g.cs
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_MarkupCompile.cache
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_MarkupCompile.lref
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\MainWindow.baml
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\ManePage.baml
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.g.resources
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.Properties.Resources.resources
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.GenerateResource.cache
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.CoreCompileInputs.cache
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.CopyComplete
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.exe
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.pdb
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignColors.dll
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\App.baml
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\InsertPage.g.cs
+C:\Users\ДженнетРаджабова\source\repos\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\InsertPage.baml
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.exe.config
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.exe
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.pdb
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.dll
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.SqlServer.dll
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignColors.dll
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.xml
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.SqlServer.xml
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignColors.pdb
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\ru\EntityFramework.resources.dll
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csprojAssemblyReference.cache
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\MainWindow.g.cs
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\InsertPage.g.cs
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\ManePage.g.cs
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\App.g.cs
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_Content.g.cs
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_MarkupCompile.cache
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_MarkupCompile.lref
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\App.baml
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\MainWindow.baml
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\InsertPage.baml
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\ManePage.baml
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.g.resources
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.Properties.Resources.resources
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.GenerateResource.cache
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.CoreCompileInputs.cache
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.CopyComplete
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.exe
+D:\учебная практика Кафланов\прога\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.pdb
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.exe.config
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.exe
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\Academy_fitness_Kaflanov.pdb
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.dll
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignColors.dll
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.xml
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csprojAssemblyReference.cache
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\MainWindow.g.cs
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\InsertPage.g.cs
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\ManePage.g.cs
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\App.g.cs
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_Content.g.cs
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_MarkupCompile.cache
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov_MarkupCompile.lref
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\App.baml
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\MainWindow.baml
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\InsertPage.baml
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Pages\ManePage.baml
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.g.resources
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.Properties.Resources.resources
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.GenerateResource.cache
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.CoreCompileInputs.cache
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.csproj.CopyComplete
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.exe
+C:\Users\ДженнетРаджабова\Desktop\прога усеб практика\Academy_fitness_Kaflanov\Academy_fitness_Kaflanov\obj\Debug\Academy_fitness_Kaflanov.pdb
